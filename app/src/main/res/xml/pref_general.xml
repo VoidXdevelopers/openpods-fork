@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <CheckBoxPreference
+        android:key="batterySaver"
+        android:title="@string/batterySaver"
+        android:summary="@string/batterySaver_desc"
+        android:defaultValue="false"
+        />
+    <!--<Preference
+        android:key="hideApp"
+        android:title="@string/hide"
+        android:visibility="gone"
+        />-->
+    <Preference
+        android:key="about"
+        android:title="@string/about"
+        />
+</PreferenceScreen>

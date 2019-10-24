@@ -1,0 +1,22 @@
+<resources>
+    <string name="intro1">Esta aplicación te permite ver el estado de tus AirPods en cualquier dispositivo Android.</string>
+    <string name="intro2">Para operar necesitamos permiso para usar Bluetooth LE (Localización) y permiso para ejecutar la app en segundo plano.</string>
+    <string name="introAllow">Permitir</string>
+    <string name="main1">Esta aplicación mostrará una notificación cuando tus AirPods estén conectados.</string>
+    <string name="settings">Ajustes</string>
+
+    <string name="noBtText">Parece que éste dispositivo no tiene Bluetooth LE.</string>
+    <string name="locationDisabledText">Necesitas activar la Localización para permitir que OpenPods lea el estado.</string>
+    <string name="supportedDevices">Dispositivos compatibles:\n&#8226; Apple AirPods 1ª generación\n&#8226; Apple AirPods 2ª generación</string>
+
+    <string name="hide">Ocultar app</string>
+    <string name="hideClicked">El icono desaparecerá pronto</string>
+    <string name="batterySaver">Ahorro de energía (no recomendado)</string>
+    <string name="batterySaver_desc">Activa ésta opción si el Bluetooth consume mucha batería.</string>
+    <string name="about">Acerca de</string>
+
+    <string name="about1">Playstore signed version by VoidX developers (Arpods is based on Federico Dossena work) </string>
+    <string name="website">VoidX Funding</string>
+    <string name="github">Source</string>
+    <string name="donate">Rate us</string>
+</resources>
